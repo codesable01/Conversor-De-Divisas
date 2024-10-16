@@ -55,6 +55,7 @@ Se utiliza Maven para gestionar dependencias, asegurando que las bibliotecas nec
 
 
 #📦 Instalación
+
 Paso 1: Clona el repositorio
 bash
 Copy code
@@ -89,6 +90,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme en codesable01@g
 
 
 #🚧 Mejoras Futuras
+
 Soporte para criptomonedas: Implementar la posibilidad de convertir monedas tradicionales a criptomonedas como Bitcoin o Ethereum.
 Modo oscuro: Añadir soporte para un modo de interfaz oscura para una mejor experiencia de usuario en condiciones de baja luz.
 Notificaciones de cambio de tasas: Alerta a los usuarios cuando las tasas de cambio de sus monedas preferidas cambien significativamente.
@@ -96,15 +98,18 @@ Optimización de rendimiento: Hacer el historial aún más eficiente para maneja
 Desplegar en la Nube: Subir el proyecto a una nube como Google Cloud o cualquier otra plataforma que permita ejecutarlo como una aplicación web, transformando el conversor en un servicio accesible desde cualquier navegador.
 
 #🌟 ¡Aporta y Colabora!
+
 ##¿Te gustaría contribuir al proyecto? Siéntete libre de abrir un pull request o compartir tus ideas a través de un issue. ¡Siempre estoy abierto a colaboraciones y mejoras!
 
 
 
 
 #📜 Licencia
+
 Este proyecto está bajo la licencia de la Liberta Anarquista Anarcocapitalista . Consulta el Anarcocapitalismo como unica anarquia coherente  para más detalles.
 
 #🎉 ¡Gracias por usar el Conversor de Divisas! 🎉
+
 Este README está diseñado para ser colorido y completo, ideal para impresionar a otros desarrolladores y usuarios que deseen contribuir o simplemente usar tu conversor de divisas. ¡Espero que te guste! 😄
 
 
