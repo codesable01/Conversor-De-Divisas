@@ -8,7 +8,7 @@
 Este proyecto tiene como objetivo proporcionar una herramienta de conversión de divisas fácil de usar, flexible y precisa. Utilizando la API de ExchangeRate, nuestro conversor permite la actualización en tiempo real de las tasas de cambio, ofreciendo un historial de conversiones para referencia futura.
 
 
-## 🔧 Tecnologías Utilizadas
+#🔧 Tecnologías Utilizadas
 
 Java 17: Utilizado para implementar la lógica de negocio.
 VSCode: Editor de código utilizado para desarrollar el proyecto.
@@ -17,7 +17,7 @@ Java Swing: Para el desarrollo de la interfaz gráfica de usuario.
 Java SWT: Otra herramienta para gestionar interfaces gráficas ricas y responsivas.
 API ExchangeRate: Integra datos de tasas de cambio en tiempo real.
 
-🎨 Características
+#🎨 Características
 🏦 Conversor de Múltiples Divisas:
 Convertir entre diferentes monedas internacionales:
 
@@ -33,14 +33,11 @@ Canadá 🇨🇦: Dólar Canadiense (CAD)
 ¡Y muchas más!
 
 
-📊 Historial de Conversiones:
-Este conversor almacena todas tus conversiones, permitiendo revisar las tasas utilizadas previamente. ¡Nunca pierdas de vista las conversiones que ya realizaste!
-
-🔑 API ExchangeRate:
+#🔑 API ExchangeRate:
 Usamos la API de ExchangeRate para obtener tasas de cambio actualizadas. 
 
 
-## 🌈 Funcionalidades Clave
+# 🌈 Funcionalidades Clave
 
 📥 Interfaz de Usuario (UI) con Java Swing y SWT:
 Ventanas y botones interactivos, fáciles de usar.
@@ -57,7 +54,7 @@ Gracias al uso de Java 17, nuestro conversor es rápido y eficiente.
 Se utiliza Maven para gestionar dependencias, asegurando que las bibliotecas necesarias estén siempre actualizadas.
 
 
-##📦 Instalación
+#📦 Instalación
 Paso 1: Clona el repositorio
 bash
 Copy code
@@ -85,28 +82,29 @@ Consultar Historial
 Puedes hacer clic en el botón Historial para ver todas las conversiones previas.
 Los resultados se mostrarán en orden cronológico, detallando las tasas utilizadas en cada transacción.
 
-##💬 Contacto
+#💬 Contacto
+
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme en codesable01@gmail.com o mediante el sistema de issues en GitHub.
 
 
 
-🚧 Mejoras Futuras
+#🚧 Mejoras Futuras
 Soporte para criptomonedas: Implementar la posibilidad de convertir monedas tradicionales a criptomonedas como Bitcoin o Ethereum.
 Modo oscuro: Añadir soporte para un modo de interfaz oscura para una mejor experiencia de usuario en condiciones de baja luz.
 Notificaciones de cambio de tasas: Alerta a los usuarios cuando las tasas de cambio de sus monedas preferidas cambien significativamente.
 Optimización de rendimiento: Hacer el historial aún más eficiente para manejar grandes volúmenes de datos.
 Desplegar en la Nube: Subir el proyecto a una nube como Google Cloud o cualquier otra plataforma que permita ejecutarlo como una aplicación web, transformando el conversor en un servicio accesible desde cualquier navegador.
 
-##🌟 ¡Aporta y Colabora!
+#🌟 ¡Aporta y Colabora!
 ##¿Te gustaría contribuir al proyecto? Siéntete libre de abrir un pull request o compartir tus ideas a través de un issue. ¡Siempre estoy abierto a colaboraciones y mejoras!
 
 
 
 
-##📜 Licencia
+#📜 Licencia
 Este proyecto está bajo la licencia de la Liberta Anarquista Anarcocapitalista . Consulta el Anarcocapitalismo como unica anarquia coherente  para más detalles.
 
-##🎉 ¡Gracias por usar el Conversor de Divisas! 🎉
+#🎉 ¡Gracias por usar el Conversor de Divisas! 🎉
 Este README está diseñado para ser colorido y completo, ideal para impresionar a otros desarrolladores y usuarios que deseen contribuir o simplemente usar tu conversor de divisas. ¡Espero que te guste! 😄
 
 
