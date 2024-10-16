@@ -1,36 +1,21 @@
-🌍💱 Conversor de Divisas - Java Swing, SWT y API 💸
+# 🌍💱 Conversor de Divisas - Java Swing, SWT y API 💸
+
 🚀 Proyecto desarrollado en Java 17, utilizando VSCode, Maven y frameworks de interfaz gráfica como Java Swing y Java SWT. ¡Un potente conversor de divisas que te permite convertir entre diversas monedas, incluyendo pesos argentinos, bolívares venezolanos, dongs vietnamitas, y muchas más!
 
 
-🎯 Objetivo del Proyecto
+# 🎯 Objetivo del Proyecto
+
 Este proyecto tiene como objetivo proporcionar una herramienta de conversión de divisas fácil de usar, flexible y precisa. Utilizando la API de ExchangeRate, nuestro conversor permite la actualización en tiempo real de las tasas de cambio, ofreciendo un historial de conversiones para referencia futura.
 
 
-🔧 Tecnologías Utilizadas
+## 🔧 Tecnologías Utilizadas
+
 Java 17: Utilizado para implementar la lógica de negocio.
 VSCode: Editor de código utilizado para desarrollar el proyecto.
 Maven: Administrador de dependencias y estructura del proyecto.
 Java Swing: Para el desarrollo de la interfaz gráfica de usuario.
 Java SWT: Otra herramienta para gestionar interfaces gráficas ricas y responsivas.
 API ExchangeRate: Integra datos de tasas de cambio en tiempo real.
-
-
-Aquí tienes un README colorido y extenso que puedes usar para tu proyecto:
-
-🌍💱 Conversor de Divisas - Java Swing, SWT y API 💸
-🚀 Proyecto desarrollado en Java 17, utilizando VSCode, Maven y frameworks de interfaz gráfica como Java Swing y Java SWT. ¡Un potente conversor de divisas que te permite convertir entre diversas monedas, incluyendo pesos argentinos, bolívares venezolanos, dongs vietnamitas, y muchas más!
-🎯 Objetivo del Proyecto
-Este proyecto tiene como objetivo proporcionar una herramienta de conversión de divisas fácil de usar, flexible y precisa. Utilizando la API de ExchangeRate, nuestro conversor permite la actualización en tiempo real de las tasas de cambio, ofreciendo un historial de conversiones para referencia futura.
-
-🔧 Tecnologías Utilizadas
-Java 17: Utilizado para implementar la lógica de negocio.
-VSCode: Editor de código utilizado para desarrollar el proyecto.
-Maven: Administrador de dependencias y estructura del proyecto.
-Java Swing: Para el desarrollo de la interfaz gráfica de usuario.
-Java SWT: Otra herramienta para gestionar interfaces gráficas ricas y responsivas.
-API ExchangeRate: Integra datos de tasas de cambio en tiempo real.
-Historial de Conversiones: Permite almacenar y consultar conversiones anteriores.
-
 
 🎨 Características
 🏦 Conversor de Múltiples Divisas:
@@ -55,7 +40,8 @@ Este conversor almacena todas tus conversiones, permitiendo revisar las tasas ut
 Usamos la API de ExchangeRate para obtener tasas de cambio actualizadas. 
 
 
-🌈 Funcionalidades Clave
+## 🌈 Funcionalidades Clave
+
 📥 Interfaz de Usuario (UI) con Java Swing y SWT:
 Ventanas y botones interactivos, fáciles de usar.
 Layout responsivo, que se adapta a diferentes tamaños de pantalla y resoluciones.
@@ -71,7 +57,7 @@ Gracias al uso de Java 17, nuestro conversor es rápido y eficiente.
 Se utiliza Maven para gestionar dependencias, asegurando que las bibliotecas necesarias estén siempre actualizadas.
 
 
-📦 Instalación
+##📦 Instalación
 Paso 1: Clona el repositorio
 bash
 Copy code
@@ -89,7 +75,7 @@ bash
 Copy code
 mvn exec:java -Dexec.mainClass="com.example.Main"
 
-🛠️ Uso
+##🛠️ Uso
 Conversión de Monedas
 Abre la aplicación y selecciona la moneda que deseas convertir desde la lista desplegable.
 Introduce el monto que deseas convertir.
@@ -99,7 +85,7 @@ Consultar Historial
 Puedes hacer clic en el botón Historial para ver todas las conversiones previas.
 Los resultados se mostrarán en orden cronológico, detallando las tasas utilizadas en cada transacción.
 
-💬 Contacto
+##💬 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme en codesable01@gmail.com o mediante el sistema de issues en GitHub.
 
 
@@ -111,16 +97,16 @@ Notificaciones de cambio de tasas: Alerta a los usuarios cuando las tasas de cam
 Optimización de rendimiento: Hacer el historial aún más eficiente para manejar grandes volúmenes de datos.
 Desplegar en la Nube: Subir el proyecto a una nube como Google Cloud o cualquier otra plataforma que permita ejecutarlo como una aplicación web, transformando el conversor en un servicio accesible desde cualquier navegador.
 
-🌟 ¡Aporta y Colabora!
-¿Te gustaría contribuir al proyecto? Siéntete libre de abrir un pull request o compartir tus ideas a través de un issue. ¡Siempre estoy abierto a colaboraciones y mejoras!
+##🌟 ¡Aporta y Colabora!
+##¿Te gustaría contribuir al proyecto? Siéntete libre de abrir un pull request o compartir tus ideas a través de un issue. ¡Siempre estoy abierto a colaboraciones y mejoras!
 
 
 
 
-📜 Licencia
+##📜 Licencia
 Este proyecto está bajo la licencia de la Liberta Anarquista Anarcocapitalista . Consulta el Anarcocapitalismo como unica anarquia coherente  para más detalles.
 
-🎉 ¡Gracias por usar el Conversor de Divisas! 🎉
+##🎉 ¡Gracias por usar el Conversor de Divisas! 🎉
 Este README está diseñado para ser colorido y completo, ideal para impresionar a otros desarrolladores y usuarios que deseen contribuir o simplemente usar tu conversor de divisas. ¡Espero que te guste! 😄
 
 
